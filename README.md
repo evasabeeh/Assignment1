@@ -19,7 +19,7 @@
 ## Key points
 
 1. Quiz Management - Display a list of questions; Allow multiple attempts; Show attempt history
-2. User Interaction - Users can select answers and get **instant feedback**; Implement timer-based questions
-3. Progress Tracking - Show a scoreboard at the end of each quiz
+2. User Interaction - Users can select answers; Implement timer-based questions
+3. Progress Tracking - Show a score at the end of each quiz
 4. Bonus: Store attempt history
-- Deployed on Vercel
+5. Deployed on Vercel
